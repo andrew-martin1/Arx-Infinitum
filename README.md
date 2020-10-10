@@ -1,2 +1,2 @@
-# Dungeon-Infinite
+# Arx Infinitum
 A top down roguelike shootemup.
